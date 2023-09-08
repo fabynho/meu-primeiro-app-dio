@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiroAppDio</string>
+    <string name="ola_mundo">¡Hola mundo! Bienvenidos a mi primera aplicación 😃</string>
+    <string name="meu_nome">Mi nombre es Fabio, este es mi primer contacto con el lenguaje kotlin. 👋</string>
+    <string name="apresentacao">"¡Bien! Me apasiona la tecnología y siempre busco estar al día de las novedades del mercado. ¡Espero hacer muchas conexiones aquí! Conectate conmigo [Github] 🌐"</string>
+</resources>
